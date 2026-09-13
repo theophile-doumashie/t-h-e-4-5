@@ -65,7 +65,7 @@ Machine Learning léger.
 - 🔐 CTF et veille sécurité, membre actif d'**ISOC Togo**
 - 💬 Parlons Asterisk, dialplan, trunks SIP, QoS voix ou durcissement Linux
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right"><a href="#readme-top"><img src="icons/arrow-up-24.svg" width="14" align="top"> retour en haut</a></p>
 
 <a id="stack"></a>
 
@@ -105,7 +105,7 @@ Machine Learning léger.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right"><a href="#readme-top"><img src="icons/arrow-up-24.svg" width="14" align="top"> retour en haut</a></p>
 
 <a id="projets"></a>
 
@@ -154,7 +154,7 @@ Machine Learning léger.
   </tr>
 </table>
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right"><a href="#readme-top"><img src="icons/arrow-up-24.svg" width="14" align="top"> retour en haut</a></p>
 
 <a id="formation"></a>
 
@@ -165,7 +165,7 @@ Machine Learning léger.
 - **Microsoft AZ-800 / AZ-801** — Administration Windows Server hybride
 - **Cisco Networking Academy** — CCNAv7 *Introduction to Networks* (2022), Introduction à la cybersécurité (2024)
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right"><a href="#readme-top"><img src="icons/arrow-up-24.svg" width="14" align="top"> retour en haut</a></p>
 
 <a id="roadmap"></a>
 
@@ -180,7 +180,7 @@ Machine Learning léger.
 - [ ] Certification SSCA (SIP School)
 - [ ] Certification CompTIA Security+
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right"><a href="#readme-top"><img src="icons/arrow-up-24.svg" width="14" align="top"> retour en haut</a></p>
 
 <a id="contact"></a>
 
@@ -192,7 +192,7 @@ Portfolio : [theophile.stagebroad.com][portfolio-url] · LinkedIn : [/in/theophi
 
 *Ouvert aux missions freelance et aux collaborations en VoIP, infrastructure et cybersécurité.*
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right"><a href="#readme-top"><img src="icons/arrow-up-24.svg" width="14" align="top"> retour en haut</a></p>
 
 <!-- DECLARATION DES LIENS EN STYLE REFERENCE -->
 [followers-shield]: https://img.shields.io/github/followers/theophile-doumashie?style=for-the-badge&logo=github&color=0F4266&labelColor=161b22
