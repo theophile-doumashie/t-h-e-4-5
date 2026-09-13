@@ -33,16 +33,18 @@
 <details>
   <summary>Sommaire</summary>
   <ol>
-    <li><a href="#-à-propos">À propos</a></li>
-    <li><a href="#️-stack-technique">Stack technique</a></li>
-    <li><a href="#-projets">Projets</a></li>
-    <li><a href="#-formation--certifications">Formation &amp; certifications</a></li>
-    <li><a href="#️-feuille-de-route">Feuille de route</a></li>
-    <li><a href="#-contact">Contact</a></li>
+    <li><a href="#a-propos">À propos</a></li>
+    <li><a href="#stack">Stack technique</a></li>
+    <li><a href="#projets">Projets</a></li>
+    <li><a href="#formation">Formation &amp; certifications</a></li>
+    <li><a href="#roadmap">Feuille de route</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-## 🧑‍💻 À propos
+<a id="a-propos"></a>
+
+## <img src="icons/person-24.svg" width="22" align="top"> À propos
 
 Je conçois, exploite et sécurise des plateformes de téléphonie et des centres de
 contacts. Depuis 2023, je pilote l'infrastructure d'**ADKONTACT TECHNOLOGIES**
@@ -65,7 +67,9 @@ Machine Learning léger.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-## 🛠️ Stack technique
+<a id="stack"></a>
+
+## <img src="icons/tools-24.svg" width="22" align="top"> Stack technique
 
 **Téléphonie &amp; centres de contacts**
 
@@ -103,20 +107,58 @@ Machine Learning léger.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-## 🚀 Projets
+<a id="projets"></a>
 
-| Projet | Description | Stack |
-|---|---|---|
-| **Plateforme CRM + téléphonie WebRTC** | Intégration unifiée Twenty CRM et softphone WebRTC : click-to-call, journalisation des appels, déploiement conteneurisé sur VPS | Asterisk, PJSIP, ARI, Docker, Node.js |
-| **Refonte frontend GOautodial** | Modernisation de l'interface agent/superviseur d'un centre de contacts en SPA | Angular, TypeScript, API GOautodial |
-| **Détection de botnets IoT** *(mémoire de Master)* | Détection comportementale d'objets connectés compromis par Machine Learning léger embarqué | Python, scikit-learn, Edge AI |
-| **Architecture réseau et téléphonie d'entreprise** | Conception d'infrastructure multi-sites : VLAN, routage, QoS voix, plan de numérotation | Cisco, MikroTik, Asterisk, Zabbix |
-| **Durcissement de serveurs Linux** | Audit puis sécurisation progressive : SSH par clé, anti-brute force, pare-feu, supervision | AlmaLinux, Ubuntu, fail2ban, firewalld, Ansible |
-| **Pipeline d'archivage de logs vers S3** | Parsing de logs et upload structuré (`raw/` → `processed/`) | Python, boto3, AWS S3 |
+## <img src="icons/rocket-24.svg" width="22" align="top"> Projets
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <h4>Plateforme CRM + téléphonie WebRTC</h4>
+      <img src="https://img.shields.io/badge/en%20cours-1f6feb?style=flat-square" alt="en cours">
+      <p>Le navigateur devient le téléphone de l'agent : click-to-call depuis Twenty CRM, journalisation automatique des appels, déploiement conteneurisé.</p>
+      <code>Asterisk</code> <code>PJSIP</code> <code>ARI</code> <code>WebRTC</code> <code>Docker</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Détection de botnets IoT</h4>
+      <img src="https://img.shields.io/badge/recherche-6E40C9?style=flat-square" alt="recherche">
+      <p>Mémoire de Master : identifier des objets connectés compromis par leur comportement réseau, avec un modèle léger exécuté en périphérie.</p>
+      <code>Python</code> <code>scikit-learn</code> <code>Edge AI</code> <code>Zero Trust</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Refonte frontend GOautodial</h4>
+      <img src="https://img.shields.io/badge/en%20cours-1f6feb?style=flat-square" alt="en cours">
+      <p>Remplacement de l'interface agent et superviseur d'un centre de contacts par une application monopage moderne.</p>
+      <code>Angular</code> <code>TypeScript</code> <code>API GOautodial</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="top">
+      <h4>Architecture réseau et téléphonie</h4>
+      <img src="https://img.shields.io/badge/livr%C3%A9-238636?style=flat-square" alt="livré">
+      <p>Conception d'infrastructure multi-sites de bout en bout : segmentation VLAN, routage inter-sites, QoS voix, plan de numérotation.</p>
+      <code>Cisco</code> <code>MikroTik</code> <code>Asterisk</code> <code>Zabbix</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Durcissement de serveurs Linux</h4>
+      <img src="https://img.shields.io/badge/livr%C3%A9-238636?style=flat-square" alt="livré">
+      <p>Audit puis sécurisation progressive de serveurs de production : SSH par clé, anti-brute force, pare-feu, détection et supervision.</p>
+      <code>AlmaLinux</code> <code>Ubuntu</code> <code>fail2ban</code> <code>firewalld</code> <code>Ansible</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Archivage de logs vers S3</h4>
+      <img src="https://img.shields.io/badge/livr%C3%A9-238636?style=flat-square" alt="livré">
+      <p>Parsing de journaux applicatifs et envoi structuré vers un bucket S3, du brut au retraité.</p>
+      <code>Python</code> <code>boto3</code> <code>AWS S3</code>
+    </td>
+  </tr>
+</table>
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-## 🎓 Formation &amp; certifications
+<a id="formation"></a>
+
+## <img src="icons/mortar-board-24.svg" width="22" align="top"> Formation &amp; certifications
 
 - **Master 1 — Sécurité des SI et IoT**, UCAO-UUT *(2026)*
 - **Licence professionnelle — Administration Réseaux et Systèmes**, Institut Polytechnique Defitech *(2023)*
@@ -125,7 +167,9 @@ Machine Learning léger.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-## 🗺️ Feuille de route
+<a id="roadmap"></a>
+
+## <img src="icons/milestone-24.svg" width="22" align="top"> Feuille de route
 
 - [x] Durcissement des serveurs de production (AlmaLinux, Ubuntu)
 - [x] Portfolio statique déployé sur Cloudflare Pages
@@ -138,7 +182,9 @@ Machine Learning léger.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-## 📫 Contact
+<a id="contact"></a>
+
+## <img src="icons/mail-24.svg" width="22" align="top"> Contact
 
 Théophile Doumashie — [theophiledumashie@gmail.com](mailto:theophiledumashie@gmail.com)
 
